@@ -9,7 +9,7 @@
 
 * **项目名**采用全小写单词，多个单词间以中划线分隔。例如: `your-project-name`
 * **目录名**采用全小写单词，多个单词间以中划线分隔。如存在多个文件，则采用复数命名。例如: `stylesheets routes`
-* **HTML / CSS / JS 文件名**采用全小写单词，多个单词间以中划线分隔。例如: `code-guide.html code-guide.css code-guide.js`
+* **文件名**采用全小写单词，多个单词间以中划线分隔。例如: `code-guide.html code-guide.css code-guide.js`
 
 ```text
 例如: Vue.js项目结构
@@ -311,6 +311,7 @@ trim_trailing_whitespace = false
 * [维基百科：HTML](https://zh.wikipedia.org/wiki/HTML)
 * [维基百科：CSS](https://zh.wikipedia.org/wiki/CSS)
 * [维基百科：JavaScript](https://zh.wikipedia.org/wiki/JavaScript)
+* [为什么文件名要小写？](http://www.ruanyifeng.com/blog/2017/02/filename-should-be-lowercase.html)
 * [知乎：JavaScript 语句后应该加分号么？](https://www.zhihu.com/question/20298345)
 * [知乎：JavaScript 中字符串变量使用单引号和双引号的利弊？](https://www.zhihu.com/question/21168673)
 * [知乎：将html5缩写成h5究竟合不合理？](https://www.zhihu.com/question/48031998)
